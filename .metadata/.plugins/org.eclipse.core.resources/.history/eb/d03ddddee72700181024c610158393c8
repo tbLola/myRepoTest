@@ -6,6 +6,5 @@ public class Hi {
 // ploop
 		System.out.println("branchone");
 		System.out.println("Hehe");
-		System.out.println("master");
 	}
 }
